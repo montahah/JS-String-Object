@@ -1,12 +1,12 @@
-// const person = {
-//   name: "Montaha",
-//   age: 20,
-//   designation: "Developer",
-//   salary: 30000,
-//   married: true,
-// };
-// console.log(person);
-// console.log(person.salary);
+const person1 = {
+  name: "Montaha",
+  age: 20,
+  designation: "Developer",
+  salary: 30000,
+  married: true,
+};
+console.log(person);
+console.log(person.salary);
 
 const person = {
   name: "Sadar Uddin",
